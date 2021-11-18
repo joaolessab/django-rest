@@ -4,5 +4,18 @@
 
 ##
 
-### Want to start learning with me?
-### Yes, João. Go ahead!
+<div align="center">
+ <h3>Want to start learning this with me?</h3>
+ <p>Yes, João. Go ahead!</p>
+</div>
+
+##
+
+<div align="center">
+ <h3>Ok, here is the Summary of this Repository:</h3> 
+
+ <ul>
+  <li>What's Django?</li>
+  <li>What's Django REST Framework?</li>
+ </ul>
+</div>
